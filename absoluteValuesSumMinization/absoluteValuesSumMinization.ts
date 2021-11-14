@@ -1,6 +1,4 @@
-export function absoluteValuesSumMinimization(a: number[]): number {
-    return 5;
-}
+export function absoluteValuesSumMinimization(a: number[]): number {}
 
 // console.log(absoluteValuesSumMinimization([2, 4, 7]));
 // console.log(absoluteValuesSumMinimization([2, 4, 7, 6]));
